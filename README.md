@@ -1,7 +1,7 @@
-## Hi there, I'm febru 👋
+## Hi, I'm febru 🔥
 
 - 🎉 I 'm coding, editing videos and producing music.
-- 📘 Currently, I'm learning React, Tailwind CSS and other web technologies.
+- 📘 Currently, I'm learning React, Tailwind CSS and other web technologies. I also develop C++ games just for fun.
 
 **My personal website: _[https://febru.me](https://febru.me)_**
 
