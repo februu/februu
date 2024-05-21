@@ -16,7 +16,7 @@
 </p>
 </br>
 
-<h3 align="center"> What I use: </h3>
+<h3 align="center"> What I use </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,cpp,py,html,css,js,svelte" />
