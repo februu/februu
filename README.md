@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://svg-banners.vercel.app/api?type=glitch&text1=febru&width=800&height=400" alt="febru">
+<img src="https://febru.me/media/avatar.png" alt="febru">
 </p>
 
 <h3 align="center"> About me </h3>
@@ -19,7 +19,7 @@
 <h3 align="center"> What I use </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,ps,pr,figma,cpp,py,html,css,js,svelte" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,js,ts,svelte,php,mysql,mongodb,ubuntu,bash,docker,nginx,ps,pr,figma&perline=9" />
   </a>
 </p>
 </br>
