@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>My personal website: <a href="https://febru.me">https://febru.me/</a></b>
+  <b>My personal website: <a href="https://febru.dev">https://febru.me/</a></b>
 </p>
 </br>
 
