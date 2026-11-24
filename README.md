@@ -1,37 +1,26 @@
-<h3 align="center"> About me </h3>
-<p align="center">
-  🎉 I'm coding, editing videos and producing music. 🎉
-</p>
-<p align="center">
-  I'm currently studying Computer Science in Engineering at AGH, Kraków, PL.
-</p>
+<div align="center">
+  
+### 𝚏𝚎𝚋𝚛𝚞
+  
+_software developer // music lover & producer // absurd enjoyer <br> ASMR connoisseur // nightly overthinker // ice tea addict_
+ 
+[![website](https://img.shields.io/badge/febru.dev-c3a6ff?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://febru.dev)
+ 
+⠀· · ─────── · 𖥸 · ─────── · ·
+ 
+</div>
 
-<p align="center">
-  <b>My personal website: <a href="https://febru.dev">https://febru.dev/</a></b>
-</p>
-</br>
+### ⋆｡° about me
+ 
+★ I'm currently doing a Master's degree in Computer Science at AGH University of Kraków, Poland. \
+★ My spirit animals are sloths and butterflies 🦋 \
+★ Would love to be whimsical one day...
+ 
+### ⋆｡° things i make stuff with
+ 
+<div align="center">
+  
+<img src="https://skillicons.dev/icons?i=py,cpp,go,ts,bash,postgres,mongodb,docker,aws,ubuntu,pytorch,figma,ps,pr,wordpress&perline=5&theme=dark" alt="tech stack" />
 
-<h3 align="center"> What I use </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,java,html,css,js,ts,svelte,php,mysql,mongodb,ubuntu,bash,docker,nginx,ps,pr,figma&perline=9" />
-  </a>
-</p>
-</br>
-
-<h3 align="center">Discord & Spotify</h3>
-
-<p align="center">
-  <a href="https://discord.com/users/175652881456693249">
-    <img src="https://lanyard.cnrad.dev/api/175652881456693249" alt="Discord" />
-  </a>
-</p>
-
-<p align="center">
-   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=216qecc4bio7sz7aq2bl6jmay" alt="Data Card for Spotify">
-</p>
-</br>
-
-
-
-
+</div>
+ 
