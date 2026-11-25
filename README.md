@@ -20,7 +20,7 @@ _software developer // music lover & producer // absurd enjoyer <br> ASMR connoi
  
 <div align="center">
   
-<img src="https://skillicons.dev/icons?i=py,cpp,go,ts,bash,postgres,mongodb,docker,aws,ubuntu,pytorch,figma,ps,pr,wordpress&perline=5&theme=dark" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=py,cpp,go,ts,bash,postgres,mongodb,docker,aws,ubuntu,pytorch,figma,ps,pr&perline=7&theme=dark" alt="tech stack" />
 
 </div>
  
